@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/javaweb-02-servletContext" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-02-servletContext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-02-servletContext/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-03-httpResponse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-03-httpResponse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-03-httpResponse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-04-request" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-04-request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-05-session_cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-05-session_cookie/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
